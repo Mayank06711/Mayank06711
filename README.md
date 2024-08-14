@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, Firebase, AWS, React, Postgres**
 
-- 💬 Ask me about **Express ,Node MongoDb React, JS,DSA, C++**
+- 💬 Ask me about **Express ,Node MongoDb, Postgres, Prisma, MicroServices, AWS, Docker, React, JS,DSA, C++**
 
 - 📫 How to reach me **mayankatwork67@gmail.com**
 
