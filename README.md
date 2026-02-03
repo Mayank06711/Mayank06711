@@ -91,8 +91,22 @@ I care about **simple designs, clear abstractions, and systems that hold up unde
 ---
 
 ## 📫 Reach me
-- 📧 **mayankatwork67@gmail.com**
-- 🔗 https://www.linkedin.com/in/mayank-soni-89b006233
+
+<p align="left">
+  <a href="mailto:mayankatwork67@gmail.com">
+    📧 <strong>mayankatwork67@gmail.com</strong>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-soni-89b006233" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" 
+         height="20" width="30" />
+    <strong>Connect with me on LinkedIn</strong>
+  </a>
+</p>
 
 ---
 
