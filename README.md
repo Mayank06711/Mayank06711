@@ -110,6 +110,14 @@ I care about **simple designs, clear abstractions, and systems that hold up unde
 
 ---
 
+<p align="left">
+  <a href="https://github.com/sponsors/Mayank06711" target="_blank">
+    💖 <strong>Sponsor my work on GitHub</strong>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayank06711&show_icons=true&theme=dark&hide_border=true" />
 </p>
