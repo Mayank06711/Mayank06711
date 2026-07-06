@@ -11,7 +11,7 @@
 
 I work on **AI systems and scalable software**, spanning system design, distributed workflows, cloud infrastructure, and frontend features where needed.
 
-My focus is on taking ideas **beyond prototypes** and making them **reliable in production**. I enjoy working across layers — from backend logic and real-time pipelines to infrastructure and user-facing integrations.
+My focus is on taking ideas **beyond prototypes** and making them **reliable in production**. I enjoy working across layers - from backend logic and real-time pipelines to infrastructure and user-facing integrations.
 
 I care about **simple designs, clear abstractions, and systems that hold up under load and failure**.
 
